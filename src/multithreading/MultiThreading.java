@@ -67,7 +67,7 @@ public class MultiThreading {
         }
 
 
-        System.out.println("Thread ID is: " + th2.threadId());
+        System.out.println("Thread ID is: " + th2.getId());
 
         System.out.println("Program Ended....");
 
